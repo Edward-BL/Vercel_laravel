@@ -55,8 +55,8 @@
 </head>
 <body>
     <div class="calculator">
-        <h1>Calculadora de Descuentos</h1>
-        <label for="precioOriginal">Precio Original:</label>
+        <h1>Calculadora de descuentos</h1>
+        <label for="precioOriginal">Precio Original: </label>
         <input type="number" id="precioOriginal" step="0.01"><br><br>
         <label for="porcentajeDescuento">Porcentaje de Descuento:</label>
         <input type="number" id="porcentajeDescuento" step="0.01"><br><br>
